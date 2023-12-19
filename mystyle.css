@@ -1,0 +1,39 @@
+.aa{
+
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(0,162,173,1) 0%, rgba(125,67,30,0.63) 46.6%, rgba(162,44,166,1) 90% ) !important;
+}
+.carousel-item img{
+    height:75vh;
+    /* object-fit: cover; */
+  
+}
+.carousel{
+    width: 75%;
+    margin: auto;
+    /* height: 75vh; */
+}
+.card-img-top{
+    height: 250px;
+}
+.card:hover{
+    cursor: pointer;
+}
+
+table img{
+    height: 5rem;
+}
+.blogs img{
+    height: 10rem;
+    border-radius: 35%;
+    
+}
+button{
+    
+}
+iframe{
+    width:100%;
+    padding-top: 20px;
+}
+.card img{
+    height:15rem;
+}
